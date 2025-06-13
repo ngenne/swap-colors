@@ -32,8 +32,8 @@ Images often contain **subtle variants** of a color (compression, shading, expor
 ### 1. Cloner le dépôt / Clone the repo
 
 ```bash
-git clone https://github.com/votre-utilisateur/color-replacer-cli.git
-cd color-replacer-cli
+git clone https://github.com/ngenne/swap-colors.git
+cd swap-colors
 ```
 
 ### 2. Installer les dépendances / Install dependencies
@@ -73,17 +73,17 @@ python replace_colors.py input.png output.png --map "#121d1b:#cccccc" --toleranc
 | ![Avant](samples/logo_before.png) | ![Après](samples/logo_after.png) |
 
 ## 📝 Licence / License
-🇫🇷 Licence propriétaire – usage restreint
-Ce projet est protégé par une licence propriétaire.
-✅ Usage personnel ou éducatif autorisé
-❌ Modification, usage commercial ou redistribution interdits
+🇫🇷 Licence propriétaire – usage restreint&nbsp;
+Ce projet est protégé par une licence propriétaire.&nbsp;
+✅ Usage personnel ou éducatif autorisé&nbsp;
+❌ Modification, usage commercial ou redistribution interdits&nbsp;
 
 Consultez le fichier LICENSE.txt pour plus d’informations.
 
-🇬🇧 Proprietary license – restricted use
-This project is under a proprietary license.
-✅ Personal or educational use allowed
-❌ No modification, commercial use, or redistribution allowed
+🇬🇧 Proprietary license – restricted use&nbsp;
+This project is under a proprietary license.&nbsp;
+✅ Personal or educational use allowed&nbsp;
+❌ No modification, commercial use, or redistribution allowed&nbsp;
 
 See LICENSE.txt for full details.
 
