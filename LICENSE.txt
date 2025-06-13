@@ -1,0 +1,18 @@
+Copyright © 2025 Niels GENNE
+
+Tous droits réservés.
+
+Ce script est mis à disposition gratuitement pour une utilisation personnelle ou éducative non commerciale.
+
+Il est strictement interdit, sans autorisation écrite préalable de l’auteur :
+- de modifier, adapter, traduire ou créer des œuvres dérivées de tout ou partie du code source ;
+- de redistribuer, republier, vendre ou exploiter ce script à des fins commerciales, directement ou indirectement ;
+- d’incorporer ce script ou une partie de celui-ci dans un produit ou service à but lucratif.
+
+L’auteur ne garantit pas que ce script soit exempt d’erreurs ni qu’il convienne à un usage particulier.  
+Il est fourni "tel quel", sans aucune garantie.
+
+Pour tout usage dépassant ce cadre (commercial, professionnel, intégration dans un projet open source ou produit distribué), veuillez contacter l’auteur pour obtenir une licence adaptée.
+
+Contact : hello@data-forge.fr / https://www.linkedin.com/in/nielsgenne/
+
