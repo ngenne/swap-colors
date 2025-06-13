@@ -14,5 +14,24 @@ Il est fourni "tel quel", sans aucune garantie.
 
 Pour tout usage dépassant ce cadre (commercial, professionnel, intégration dans un projet open source ou produit distribué), veuillez contacter l’auteur pour obtenir une licence adaptée.
 
-Contact : hello@data-forge.fr / https://www.linkedin.com/in/nielsgenne/
+Contact : hello@data-forge.fr | https://www.linkedin.com/in/nielsgenne/
 
+---
+
+Copyright © 2025 Niels GENNE
+
+All rights reserved.
+
+This script is made available free of charge for personal or educational non-commercial use.
+
+It is strictly forbidden, without prior written authorization from the author :
+- modify, adapt, translate or create derivative works from all or part of the source code ;
+- redistribute, republish, sell or exploit this script for commercial purposes, directly or indirectly;
+- incorporate this script or any part of it in any product or service for profit.
+
+The author does not warrant that this script is error-free or fit for any particular purpose.  
+It is provided “as is”, without warranty of any kind.
+
+For any use beyond this (commercial, professional, integration into an open source project or distributed product), please contact the author to obtain an appropriate license.
+
+Contact: hello@data-forge.fr | https://www.linkedin.com/in/nielsgenne/
