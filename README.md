@@ -25,6 +25,12 @@ Images often contain **subtle variants** of a color (compression, shading, expor
 - Amélioration du contraste (accessibilité)  
 - Traitement batch d’illustrations
 
+- Harmonization of a logo according to a graphic charter
+- Conversion to a dark or monochrome theme
+- Cleaning up badly exported icons
+- Contrast enhancement (accessibility)
+- Batch processing of illustrations
+
 ---
 
 ## 🚀 Installation
