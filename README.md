@@ -73,17 +73,17 @@ python replace_colors.py input.png output.png --map "#121d1b:#cccccc" --toleranc
 | ![Avant](samples/logo_before.png) | ![Après](samples/logo_after.png) |
 
 ## 📝 Licence / License
-🇫🇷 Licence propriétaire – usage restreint&nbsp;
-Ce projet est protégé par une licence propriétaire.&nbsp;
-✅ Usage personnel ou éducatif autorisé&nbsp;
-❌ Modification, usage commercial ou redistribution interdits&nbsp;
+🇫🇷 Licence propriétaire – usage restreint<br/>
+Ce projet est protégé par une licence propriétaire.<br/>
+✅ Usage personnel ou éducatif autorisé<br/>
+❌ Modification, usage commercial ou redistribution interdits<br/>
 
 Consultez le fichier LICENSE.txt pour plus d’informations.
 
-🇬🇧 Proprietary license – restricted use&nbsp;
-This project is under a proprietary license.&nbsp;
-✅ Personal or educational use allowed&nbsp;
-❌ No modification, commercial use, or redistribution allowed&nbsp;
+🇬🇧 Proprietary license – restricted use<br/>
+This project is under a proprietary license.<br/>
+✅ Personal or educational use allowed<br/>
+❌ No modification, commercial use, or redistribution allowed<br/>
 
 See LICENSE.txt for full details.
 
