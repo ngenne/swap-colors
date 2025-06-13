@@ -1,12 +1,12 @@
 # 🎨 Color Replacer CLI
 
-## 🇫🇷 Remplacement intelligent de couleurs proches dans les images
+## 🇫🇷 | Remplacement intelligent de couleurs proches dans les images
 
 Un outil Python en ligne de commande pour **remplacer automatiquement les couleurs proches** dans une image (JPG/PNG), en utilisant une **tolérance perceptuelle DeltaE2000** (colorimétrie Lab).
 
 ---
 
-## 🇬🇧 Smart fuzzy color replacement in images
+## 🇬🇧 | Smart fuzzy color replacement in images
 
 A simple CLI tool in Python to **automatically replace visually similar colors** in an image (JPG/PNG), using **DeltaE2000 color difference** in Lab color space.
 
@@ -47,13 +47,13 @@ pip install -r requirements.txt
 ## 🛠️ Utilisation / Usage
 
 ```bash
-python replace_colors.py input.png output.png --map "#SOURCE:#TARGET" [--map "#SOURCE2:#TARGET2" ...] --tolerance 25
+python src/replace_colors_cli.py input.png output.png --map "#SOURCE:#TARGET" [--map "#SOURCE2:#TARGET2" ...] --tolerance 25
 ```
 
 ## Exemple / Example
 
 ```bash
-python replace_colors.py input.png output.png --map "#121d1b:#cccccc" --tolerance 15
+python src/replace_colors_cli.py input.png output.png --map "#121d1b:#cccccc" --tolerance 15
 ```
 
 > Cela remplacera toutes les couleurs proches de #121d1b par #cccccc, avec une tolérance DeltaE de 15.
@@ -70,7 +70,7 @@ python replace_colors.py input.png output.png --map "#121d1b:#cccccc" --toleranc
 ## ✅ Avant / Après
 | Avant / Before                    | Après / After                    |
 | --------------------------------- | -------------------------------- |
-| ![Avant](samples/logo_before.png) | ![Après](samples/logo_after.png) |
+| ![Avant](img/input.png) | ![Après](img/output.png) |
 
 ## 📝 Licence / License
 🇫🇷 Licence propriétaire – usage restreint<br/>
