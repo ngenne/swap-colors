@@ -18,14 +18,14 @@ Les images contiennent souvent des **variantes subtiles** d'une couleur (compres
 
 Images often contain **subtle variants** of a color (compression, shading, export artifacts). This script detects and replaces them automatically.
 
-### 🔍 Exemples d'usages / Use Cases
+### 🔍 Exemples d'usages
 - Harmonisation d’un logo selon une charte graphique  
 - Conversion vers un thème sombre ou monochrome  
 - Nettoyage d’icônes mal exportées  
 - Amélioration du contraste (accessibilité)  
 - Traitement batch d’illustrations
 
-
+### 🔍 Use Cases
 - Harmonization of a logo according to a graphic charter
 - Conversion to a dark or monochrome theme
 - Cleaning up badly exported icons
